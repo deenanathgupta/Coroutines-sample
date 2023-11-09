@@ -9,6 +9,7 @@ import androidx.lifecycle.Observer
 import com.android.coroutines_sample.utils.Resource
 import dagger.hilt.android.AndroidEntryPoint
 
+//Main acitivity
 @AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
     private val TAG: String = "TAG"
